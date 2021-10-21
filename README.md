@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://akanshaaa19.github.io/](akanshaaa19.github.io)
+- 👨‍💻 All of my projects are available at [akanshaaa19.github.io/](https://akanshaaa19.github.io/)
 
 - 📫 How to reach me **asakhre2002@gmail.com**
 
