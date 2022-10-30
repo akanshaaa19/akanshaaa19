@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **asakhre2002@gmail.com**
 
-- 📄 Know about my experiences [akanshaaa19.github.io](akanshaaa19.github.io)
+- 📄 Know about my experiences [akanshaaa19.github.io](akanshaaa19.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
