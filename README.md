@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **asakhre2002@gmail.com**
 
-- 📄 Portfolio Website:  [akanshaaa19.github.io/resume](akanshaaa19.github.io/resume)
+- 📄 Portfolio Website:  [akansha.vercel.app/](https://akansha.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
